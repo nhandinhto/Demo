@@ -8,7 +8,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("hello world\n");
 	printf("First Test Gifhub\n");
-	printf("Failed");
+	printf("OK Roai`");
 	system("PAUSE");
 	return 0;
 }
